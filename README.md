@@ -1,0 +1,4 @@
+ByJoomla-Template
+=================
+
+ByJoomla Template
