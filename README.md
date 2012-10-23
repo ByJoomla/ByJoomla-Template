@@ -51,7 +51,8 @@ Extension: BJ Facebook modules
 URL: http://byjoomla.com/bj-extensions/facebook-social-extensions-for-joomla-templates
 
 Extension: BJ Headline Roller 
-    URL: http://byjoomla.com/bj-extensions/bj-headline-roller
+
+URL: http://byjoomla.com/bj-extensions/bj-headline-roller
 
 Please feel free to reuse our works for any purpose you like. 
 
