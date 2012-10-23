@@ -8,13 +8,13 @@ All templates and extensions, we developed for Joomla 1.5 series, are now licens
 
 Below is the list of committed extensions/templates and their respective branch name and URL:
 
-    Template: BJ Mercury
-        Branch name: templates/BJ Mercury
-        Branch URL: http://byjoomla.com/joomla-templates/bj-mercury
+Template: BJ Mercury
+    Branch name: templates/BJ Mercury
+    Branch URL: http://byjoomla.com/joomla-templates/bj-mercury
 
-    Template: BJ Jupiter
-        Branch name: templates/BJ Jupiter
-        Branch URL: http://byjoomla.com/joomla-templates/bj-jupiter
+Template: BJ Jupiter
+    Branch name: templates/BJ Jupiter
+    Branch URL: http://byjoomla.com/joomla-templates/bj-jupiter
 
 Please feel free to reuse our works for any purpose you like. 
 
